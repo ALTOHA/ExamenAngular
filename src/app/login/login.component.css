@@ -1,0 +1,34 @@
+.box{
+    background-color: #eee;
+    border: 2px solid #000;
+    border: 1em;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.box input{
+    border-radius: 2em;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.box button{
+    border-radius: 2em;
+    background-color: #E10822;
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    cursor: pointer;
+}
+
+h1, h2{
+    margin-top: 20px;
+    text-align: center;
+}

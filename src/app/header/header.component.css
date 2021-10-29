@@ -1,0 +1,24 @@
+.header{
+    height: 80px;
+    background-color: #B6FF76;
+    display: flex;
+    width: revert;
+    padding-top: 20px;
+}
+
+.titulo{
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.acceso{
+    float: right;
+    margin-left: 65%;
+    font-size: 18px;
+}
+
+a, a:hover{
+    text-decoration: none;
+    color: #000;
+}

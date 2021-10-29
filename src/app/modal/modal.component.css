@@ -1,0 +1,17 @@
+.boton{
+    border-radius: 2em;
+    width: 60%;
+    background-color: #E10822;
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    cursor: pointer;
+    margin-left: 15%;
+    margin-top: 50px;
+}
+
+.boton p{
+    margin-top: 3%;
+    font-size: 20px;
+    font-weight: bold;
+}

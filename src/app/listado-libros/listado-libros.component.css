@@ -1,0 +1,11 @@
+.mis_libros{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.listado_libros{
+    width: 80%;
+    margin-left: 10%;
+}
